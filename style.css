@@ -22,17 +22,6 @@ html {
     height: 100vh;
 }
 
-
-/* .logo {
-  position: absolute;
-  width: 300px;
-  height: 300px;
-  top: 0;
-  left: 41%;
-  padding-bottom: 10px;
-  color: transparent;
-} */
-
 .banner-logo {
     display: flex;
     align-items: center;
@@ -186,7 +175,7 @@ nav ul li a {
 }
 
 
-/*-------------- Feature ----------*/
+/* ----------------------About section -------------------------------*/
 
 #feature {
     width: 100%;
@@ -253,7 +242,6 @@ nav ul li a {
 
 .title-text h1 {
     font-size: 40px;
-    font-weight: ;
 }
 
 .title-text-team h1 {
@@ -367,7 +355,7 @@ nav ul li a {
 }
 
 
-/* ---------------------------------Team Section------------------------- */
+/* ----------------------About section end -------------------------------*/
 
 
 /* ------------------------Team Section ---------------------------------------------------*/
